@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+.divi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:black;
+    height: 100vh;
+}
+h1{
+    color: blue;
+    text-transform: uppercase;
+    font-size: 40px;
+    
+}
